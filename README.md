@@ -1,8 +1,7 @@
 # OpenBrowserAI - Open Source Browser AI Agent
 
 OpenBrowserAI is an AI agent that can control your browser and can automate your browser tasks.
-
-<img width="1869" height="809" alt="image" src="https://github.com/user-attachments/assets/7c37ad2b-f5c4-418f-acaf-cff1b1ac5295" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/19c95e32-a6a1-46ac-8bd5-e1cc27e6b231" />
 
 
 ## Demo
