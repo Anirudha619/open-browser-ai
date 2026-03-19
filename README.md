@@ -10,27 +10,7 @@ Watch the demo video: [OpenBrowserAI Demo](https://drive.google.com/file/d/1H8oc
 
 ## Installation
 
-### Option 1: Install Globally via npm
-
-```bash
- npm install -g openbrowseraicli@latest
-```
-
-```bash
-npm init -y  
-npm i playwright
-npx playwright install  
-```
-
-### Using Global CLI (if installed globally)
-
-After global installation, you can run:
-
-```bash
-openbrowserai "Price of Apple share"
-```
-
-### Option 2: Clone and Install Locally
+### Clone and Install Locally
 
 ```bash
 git clone https://github.com/anirudhat101/OpenBrowserAI.git
